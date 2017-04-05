@@ -1,0 +1,45 @@
+Serial Heat on Array Size of 1000
+
+4.723668 seconds
+Serial Heat on Array Size of 1500
+
+10.058799 seconds
+Serial Heat on Array Size of 2000
+
+17.452774 seconds
+Serial Heat on Array Size of 2500
+
+27.590396 seconds
+Serial Heat on Array Size of 3000
+
+39.593367 seconds
+Threaded Heat on Array Size of 1000
+
+2.742217 seconds
+Threaded Heat on Array Size of 1500
+
+5.733099 seconds
+Threaded Heat on Array Size of 2000
+
+10.188043 seconds
+Threaded Heat on Array Size of 2500
+
+15.906216 seconds
+Threaded Heat on Array Size of 3000
+
+22.937651 seconds
+Forked Heat on Array Size of 1000
+
+4.038062 seconds
+Serial Heat on Array Size of 1500
+
+7.345179 seconds
+Serial Heat on Array Size of 2000
+
+12.879734 seconds
+Serial Heat on Array Size of 2500
+
+20.147404 seconds
+Serial Heat on Array Size of 3000
+
+29.049030 seconds
